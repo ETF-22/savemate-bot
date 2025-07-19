@@ -1,0 +1,1 @@
+#!/bin/bash\npip install -r requirements.txt\npython main.py
