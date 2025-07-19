@@ -1,1 +1,2 @@
-python-telegram-bot==20.8\nrequests\n
+python-telegram-bot==20.8
+requests
